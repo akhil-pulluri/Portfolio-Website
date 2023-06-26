@@ -19,11 +19,11 @@ function Home() {
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span>{" "}
-                I'M
+                I'm
               </h1>
 
               <h1 className="heading-name">
-                <strong className="main-name"> Rahul Jha</strong>
+                <strong className="main-name"> Akhil Pulluri</strong>
               </h1>
 
               <div style={{ padding: 30 }} className="type">

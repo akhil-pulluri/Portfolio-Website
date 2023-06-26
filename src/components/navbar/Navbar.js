@@ -44,14 +44,6 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
-          <img
-            src={themename === "light" ? logoDark : logoLight}
-            className="img-fluid logo"
-            alt="brand"
-            style={{width: "48", height: "40"}}
-          />
-        </Navbar.Brand>
 
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -101,16 +93,6 @@ function NavBar() {
                 onClick={() => updateExpanded(false)}
               >
                 Resume
-              </Nav.Link>
-            </Nav.Item>
-
-            <Nav.Item>
-              <Nav.Link
-                href="https://blog.rahuljha.tech/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Blogs
               </Nav.Link>
             </Nav.Item>
           </Nav>
