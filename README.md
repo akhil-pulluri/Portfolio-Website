@@ -1,6 +1,6 @@
 <h2 align="center">
-  Rahul Jha | Portfolio Website<br/>
-  <a href="https://www.rahuljha.tech/" target="_blank">rahuljha.tech</a>
+  Akhil Pulluri | Portfolio Website<br/>
+  <a href="" target="_blank">Akhil-Techie</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme_img.png" />
@@ -8,18 +8,10 @@
 
 <br/>
 
-<div align="center">
-
-![GitHub Repo stars](https://img.shields.io/github/stars/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/rahuljha4171/Portfolio-Website?color=red&logo=github&style=for-the-badge)
-
-</div>
-
-You can fork this repo to modify and make changes according to your need. Please give me proper credit by linking back to [Rahuljha4171](https://github.com/rahuljha4171/Portfolio-Website). Thanks in Advance😍!
 
 ## Built With
 
-My personal portfolio website <a href="https://www.rahuljha.tech/" target="_blank">rahuljha.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio website <a href="" target="_blank"></a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project is built using these technologies.
 
@@ -61,9 +53,9 @@ You will find all the components used and you can edit your information accordin
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Report A Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/akhil-pulluri/Portfolio-Website/issues">Report A Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/rahuljha4171/Portfolio-Website/issues">Request A Feature</a>
+    <a href="https://github.com/akhil-pulluri/Portfolio-Website/issues">Request A Feature</a>
 
 </h3>
 
